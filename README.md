@@ -30,5 +30,4 @@ if __name__ == '__main__':
     num1 = ff(num1)
     num2 = ff(num2)
     calculate(num1, num2, action)
-}```
 
