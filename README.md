@@ -1,7 +1,7 @@
 ## Лабараторная работа №1 
 >Калькулятор 
 >[https://replit.com/@riki163/laboratory-work-1#main.py)
->[def ff(a):
+```{Python}< >{def ff(a):
     if a.__contains__('.'):
         return float(a)
     else:
@@ -30,4 +30,5 @@ if __name__ == '__main__':
     num1 = ff(num1)
     num2 = ff(num2)
     calculate(num1, num2, action)
-)
+}```
+
